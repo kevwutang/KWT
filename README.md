@@ -1,2 +1,2 @@
-# KWT_BusinessCard
+# KWT
 Kevin Wu Tang
